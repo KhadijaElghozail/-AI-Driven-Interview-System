@@ -48,7 +48,7 @@ The setup includes three ESXi hosts, one of which hosts the vCenter Server for c
   <em>Figure 5: Company account creation form  </em>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/978bbc64-97b7-4149-9657-2175f2fbcdbd" alt="Description" width="700"/><br>
+  <img src="https://github.com/user-attachments/assets/978bbc64-97b7-4149-9657-2175f2fbcdbd" alt="Description" width="500"/><br>
   <em>Figure 6: verification Email  </em>
 </p>
 <p align="center">
@@ -76,7 +76,7 @@ The setup includes three ESXi hosts, one of which hosts the vCenter Server for c
   <em>Figure 12 :creating new job offer 2  </em>
 </p>
 <p align="center">
-  <img src=https://github.com/user-attachments/assets/19768158-ea89-44a7-b8dc-85a371e31769" alt="Description" width="700"/><br>
+  <img src=https://github.com/user-attachments/assets/19768158-ea89-44a7-b8dc-85a371e31769 " alt="Description" width="700"/><br>
   <em>Figure 13 : offer created  </em>
 </p>
 <p align="center">
@@ -100,11 +100,11 @@ The setup includes three ESXi hosts, one of which hosts the vCenter Server for c
   <em>Figure 18 : job offer detail  </em>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bfc22272-899c-42de-a77c-c03f4efb3ec2" alt="Description" width="700"/><br>
+  <img src="https://github.com/user-attachments/assets/bfc22272-899c-42de-a77c-c03f4efb3ec2" alt="Description" width="400"/><br>
   <em>Figure 19 : submissions of the application </em>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0b3f50db-f80f-4d22-b442-d5eee8fe2f6a" alt="Description" width="700"/><br>
+  <img src="https://github.com/user-attachments/assets/0b3f50db-f80f-4d22-b442-d5eee8fe2f6a" alt="Description" width="400"/><br>
   <em>Figure 20 : application send </em>
 </p>
 <p align="center">
@@ -124,7 +124,7 @@ The setup includes three ESXi hosts, one of which hosts the vCenter Server for c
   <em>Figure 24 : viewing application details </em>
 </p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c2175e68-9f4a-4679-a212-da35080dbb4e" alt="Description" width="700"/><br>
+  <img src="https://github.com/user-attachments/assets/c2175e68-9f4a-4679-a212-da35080dbb4e" alt="Description" width="400"/><br>
   <em>Figure 25 : change application status  </em>
 </p>
 <p align="center">
@@ -186,7 +186,7 @@ The setup includes three ESXi hosts, one of which hosts the vCenter Server for c
 </p>
 
 ## Other contributers
- ### Team member 
+ ### Team members 
 - AMANSAG Hasnae 
 - BISSI Chaima 
 - EL IDRISSI Hafssa
