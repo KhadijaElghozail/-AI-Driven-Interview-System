@@ -8,7 +8,9 @@ The setup includes three ESXi hosts, one of which hosts the vCenter Server for c
 - Conducts video-based interviews where the candidate answers predefined HR questions.
 - Analyzes emotional expressions and stress levels using facial recognition .
 - Evaluates candidate responses to technical questions generated using web scraping .
-
+#### Contribution 
+- Implemented the non technical test feature . 
+- Helped integrate the technical test feature and speech to text features .
 
 
 ### Tools and Technologies Used
@@ -26,7 +28,10 @@ The setup includes three ESXi hosts, one of which hosts the vCenter Server for c
 
 
 ## Demo
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ceb5a6f-7df7-4ff5-8434-cbafbf8aaee4" alt="class" width="700"/><br>
+  <em>Figure 0 : Class diagram </em>
+</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/38015535-2221-4b5d-945f-ed81506471fa" alt="Description" width="700"/><br>
   <em>Figure 1: User case diagram </em>
@@ -184,6 +189,8 @@ The setup includes three ESXi hosts, one of which hosts the vCenter Server for c
   <img src="https://github.com/user-attachments/assets/31115b69-f3bd-4250-a89d-9a2874d82d81" alt="Description" width="700"/><br>
   <em>Figure 39 : technical test report overview </em>
 </p>
+
+
 
 ## Other contributers
  ### Team members 
