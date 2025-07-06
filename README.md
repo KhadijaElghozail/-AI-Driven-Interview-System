@@ -33,7 +33,7 @@ The setup includes three ESXi hosts, one of which hosts the vCenter Server for c
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d7234e8a-d99e-4d51-839a-1e931fafcd47" alt="Description" width="700"/><br>
-  <em>Figure 1: Welcome page </em>
+  <em>Figure 2: Welcome page </em>
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10162d6d-705a-4099-956a-1ad122a60adf" alt="Description" width="700"/><br>
@@ -116,24 +116,73 @@ The setup includes three ESXi hosts, one of which hosts the vCenter Server for c
   <em>Figure 22 : application follow-ups </em>
 </p>
 <p align="center">
-  <img src="" alt="Description" width="700"/><br>
-  <em>Figure 23 : </em>
+  <img src="https://github.com/user-attachments/assets/1d82f421-ae54-42d7-9064-9da49ca6fa2d" alt="Description" width="700"/><br>
+  <em>Figure 23 : viewing application rank </em>
 </p>
 <p align="center">
-  <img src="" alt="Description" width="700"/><br>
-  <em>Figure 23 : </em>
+  <img src="https://github.com/user-attachments/assets/c425c760-2567-44e6-82fe-46f7aece281a" alt="Description" width="700"/><br>
+  <em>Figure 24 : viewing application details </em>
 </p>
 <p align="center">
-  <img src="" alt="Description" width="700"/><br>
-  <em>Figure 23 : </em>
+  <img src="https://github.com/user-attachments/assets/c2175e68-9f4a-4679-a212-da35080dbb4e" alt="Description" width="700"/><br>
+  <em>Figure 25 : change application status  </em>
 </p>
 <p align="center">
-  <img src="" alt="Description" width="700"/><br>
-  <em>Figure 23 : </em>
+  <img src="https://github.com/user-attachments/assets/1ff42c8d-1963-4e3a-9fc9-bcf091b89f8a" alt="Description" width="700"/><br>
+  <em>Figure 26 : candidat application status changed + access to start interview boutton </em>
 </p>
 <p align="center">
-  <img src="" alt="Description" width="700"/><br>
-  <em>Figure 23 : </em>
+  <img src="https://github.com/user-attachments/assets/41b8dbeb-a9c2-439b-9ded-cba8461015de" alt="Description" width="700"/><br>
+  <em>Figure 27 : interview startup page  </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/46284b96-bcfa-4e05-a13b-1ed455c81313" alt="Description" width="700"/><br>
+  <em>Figure 28 : response interface </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/285630a8-57da-40bc-ad47-dddb73f5b80d" alt="Description" width="700"/><br>
+  <em>Figure 29 : responce review page </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5b9ab908-5d39-4d1a-b90d-4d24e5fb289c" alt="Description" width="700"/><br>
+  <em>Figure 30 : interview end page </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd138389-d0ad-4ba0-8183-2567d53b31c0" alt="Description" width="700"/><br>
+  <em>Figure 31 : interview details page </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8aa00aab-efee-4e51-92f9-b00121541632" alt="Description" width="700"/><br>
+  <em>Figure 32 : report overview 1 </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c194ec03-086b-425b-adcf-cc917f36a5f9" alt="Description" width="700"/><br>
+  <em>Figure 33 : report overview 2 </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/55211dae-6314-471f-8f5c-a389fe86d3ec" alt="Description" width="700"/><br>
+  <em>Figure 34 : interview result from candidat profile + access to start technical test bouton </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94967195-e43e-486a-9916-8249faf22a73" alt="Description" width="700"/><br>
+  <em>Figure 35 : technical test question </em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c127d85e-5c8d-4763-ba5c-d54df774fe09" alt="Description" width="700"/><br>
+  <em>Figure 36 : technical test qcm </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/974063ea-6d37-479f-a88d-6a891de499b5" alt="Description" width="700"/><br>
+  <em>Figure 37 : technical test end page </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/47548ed2-b8c8-4b75-b803-32497faf3295" alt="Description" width="700"/><br>
+  <em>Figure 38 : technical test result </em>
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31115b69-f3bd-4250-a89d-9a2874d82d81" alt="Description" width="700"/><br>
+  <em>Figure 39 : technical test report overview </em>
 </p>
 
 ## Other contributers
